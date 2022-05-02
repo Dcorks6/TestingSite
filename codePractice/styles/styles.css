@@ -1,0 +1,21 @@
+body {
+  background-color: #cc0;
+}
+h1, p{
+  color: white;
+  text-align: center;
+  margin: 2
+  padding: 20px;
+}
+  .secondary-header{
+    color: black;
+  }
+  .special-header{
+    color: white;
+    font-size: 64px;
+  }
+  .button{
+    padding: 10
+    background-color: white
+    border: 2px black
+  }
